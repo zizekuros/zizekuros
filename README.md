@@ -6,6 +6,8 @@
 
 🐢 It all began in primary school where I started coding with <a href="https://mswlogo.en.softonic.com/" target="_blank">MSWLogo</a>
 
+⚡ My interests are Tech, Sports, Books and Chess 
+
 <h3>Latest Posts & Articles</h3>
 <ul>
   <li><a href="https://www.linkedin.com/posts/zizekuros_machinelearning-snowflake-cortex-activity-7184627130700283904-96FY?utm_source=share&utm_medium=member_desktop" target="_blank">Forecasting using Snowflake Cortex ML functions</a></li>
