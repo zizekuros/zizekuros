@@ -9,11 +9,7 @@
 ⚡ My interests are Tech, Sports, Books and Chess 
 
 <h3>Latest Posts & Articles</h3>
-<ul>
-  <li><a href="https://www.linkedin.com/posts/zizekuros_machinelearning-snowflake-cortex-activity-7184627130700283904-96FY?utm_source=share&utm_medium=member_desktop" target="_blank">Forecasting using Snowflake Cortex ML functions</a></li>
-  <li><a href="https://medium.com/@zizek.uros/shallowness-a-modern-day-disease-f444312d536d" target="_blank">Shallowness: A Modern-Day Disease</a></li>
-  <li><a href="https://www.linkedin.com/posts/zizekuros_ibc-2023-my-takeaways-uro%C5%A1-%C5%BEi%C5%BEek-activity-7109898934688333824-mUda" target="_blank">My takeaways from IBC 2023</a></li>
-</ul>
+<ul><li><a href="https://www.linkedin.com/posts/zizekuros_machinelearning-snowflake-cortex-activity-7184627130700283904-96FY?utm_source=share&utm_medium=member_desktop" target="_blank">Forecasting using Snowflake Cortex ML functions</a></li><li><a href="https://medium.com/@zizek.uros/shallowness-a-modern-day-disease-f444312d536d" target="_blank">Shallowness: A Modern-Day Disease</a></li><li><a href="https://www.linkedin.com/posts/zizekuros_ibc-2023-my-takeaways-uro%C5%A1-%C5%BEi%C5%BEek-activity-7109898934688333824-mUda" target="_blank">My takeaways from IBC 2023</a></li></ul>
 <h3>Let's Connect</h3>
 <p>
     <a href="mailto:zizek.uros@gmail.com" target="_blank">
