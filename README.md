@@ -8,7 +8,7 @@
 
 💡 Areas of expertise: SaaS, Product Development, Ad-tech, Cloud, CDN, Kubernetes, ML/AI, Data & Analytics
 
-👾 My public repositories mostly include smaller side projects, guidelines, tiny libraries/tools, and other projects I explore or create for fun in my free time.
+👾 My public repos mostly include smaller side projects, guidelines, tiny libraries/tools, and other stuff I explore or create for fun in my free time.
 
 📚 Hobbies: Tech, Sports, Books, Chess 
 
