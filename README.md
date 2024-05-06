@@ -6,7 +6,9 @@
 
 🐢 It all began in primary school where I started coding with <a href="https://mswlogo.en.softonic.com/" target="_blank">MSWLogo</a>
 
-👾 Areas of expertise: SaaS, Product Development, Ad-tech, Cloud, CDN, Kubernetes, ML/AI, Data & Analytics
+💡 Areas of expertise: SaaS, Product Development, Ad-tech, Cloud, CDN, Kubernetes, ML/AI, Data & Analytics
+
+👾 My public repositories mostly include smaller side projects, guidelines, tiny libraries/tools, and other projects I explore or create for fun in my free time.
 
 📚 Hobbies: Tech, Sports, Books, Chess 
 
