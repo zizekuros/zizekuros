@@ -1,12 +1,12 @@
 <h1>Hi there, I'm Uroš 👋</h1>
 
-💼 Directory of Technology at <a href="https://castoola.com"  target="_blank">Castoola</a>
+💼 Solutions Architect at <a href="https://povio.com"  target="_blank">Povio</a>
 
 🎓 I pursued my BSc in Computer Science and Information Technologies at <a href="https://feri.um.si/en/" target="_blank">FERI Maribor</a>
 
 🐢 It all began in primary school where I started coding with <a href="https://mswlogo.en.softonic.com/" target="_blank">MSWLogo</a>
 
-💡 Areas of expertise and interests: SaaS, Product Management & Development, E2E solutions, Ad-tech, Cloud (AWS, DigitalOcean), CDN, Kubernetes, DevOps, GitOps, Observability, AI, Machine Learning, Data & Analytics
+💡 Areas of expertise and interests: Solution Arthitecture, E2E Systems, Product Management & Development, Cloud (AWS, DigitalOcean), CDN, Kubernetes (K8s), DevOps, GitOps, Observability, AI, Machine Learning, Data & Analytics, Ad-tech
 
 👾 My public repos mostly include smaller side projects, guidelines, tiny libraries/tools, and other stuff I explore or create for fun in my free time.
 
