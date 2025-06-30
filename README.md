@@ -12,7 +12,7 @@
 
 📚 Hobbies: Tech, Sports, Books, Chess 
 
-<h3>Latest Posts & Articles</h3>
+<h3>My Latest Posts & Articles</h3>
 <ul>
 <li><a href="https://povio.com/blog/maximizing-cloud-potential-key-strategies-for-success" target="_blank">Maximizing Cloud Potential: Key Strategies for Success</a></li>
 <li><a href="https://www.linkedin.com/posts/zizekuros_hte-infokom-tv-activity-7260607747535110144-JDLc?utm_source=share&utm_medium=member_desktop" target="_blank">Unlocking the Power of Addressable TV: Who's In, Who's Out, and Why It Matters</a></li>
