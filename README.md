@@ -6,7 +6,7 @@
 
 🐢 It all began in primary school where I started coding with <a href="https://mswlogo.en.softonic.com/" target="_blank">MSWLogo</a>
 
-💡 Areas of expertise and interests: Solution Arthitecture, E2E Systems, Product Management & Development, Cloud (AWS, DigitalOcean), CDN, Kubernetes (K8s), DevOps&Observability, IoT (Internet of Things), AI/LLM, AI Agents & Automations, Machine Learning, Data & Analytics, Ad-tech
+💡 Areas of expertise and interests: Solution Arthitecture, E2E Systems, Product Management & Development, Cloud (AWS, DigitalOcean), CDN, Kubernetes (K8s), DevOps & Observability, IoT (Internet of Things), AI/LLM, AI Agents & Automations, Machine Learning, Data & Analytics, Ad-tech
 
 👾 My public repos mostly include smaller side projects, guidelines, tiny libraries/tools, and other stuff I explore or create for fun in my free time.
 
