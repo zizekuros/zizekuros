@@ -12,6 +12,11 @@
 
 📚 Hobbies: Tech, Sports, Books, Chess 
 
+<h3>My Projects/Apps</h3>
+<ul>
+<li><a href="https://ungry.com" target="_blank">Ungry</a> - AI-powered collaborative shopping app</li>
+</ul>
+
 <h3>My Latest Posts & Articles</h3>
 <ul>
 <li><a href="https://povio.com/blog/maximizing-cloud-potential-key-strategies-for-success" target="_blank">Maximizing Cloud Potential: Key Strategies for Success</a></li>
