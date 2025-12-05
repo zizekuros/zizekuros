@@ -14,7 +14,7 @@
 
 <h3>My Projects/Apps</h3>
 <ul>
-<li><a href="https://ungry.app" target="_blank">Ungry</a> - AI-powered collaborative shopping app</li>
+<li><a href="https://ungry.app?utm_source=github" target="_blank">Ungry</a> - AI-powered collaborative shopping app</li>
 </ul>
 
 <h3>My Latest Posts & Articles</h3>
