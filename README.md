@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Uroš 👋</h1>
 
-💼 Solutions Architect at <a href="https://povio.com"  target="_blank">Povio</a>
+💼 Head of Architecture at <a href="https://povio.com"  target="_blank">Povio</a>
 
 🎓 I pursued my BSc in Computer Science and Information Technologies at <a href="https://feri.um.si/en/" target="_blank">FERI Maribor</a>
 
